@@ -1,0 +1,231 @@
+windows:
+- geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAAAAAB38AAAQiAAAAAAAAAAAAAAd/AAAEIgAAAAAAAAAAB4A=
+  tabs:
+  - history:
+    - pinned: false
+      title: DuckDuckGo Search Engine
+      url: https://start.duckduckgo.com/
+    - pinned: false
+      title: derStandard.at - Nachrichten in Echtzeit
+      url: https://derstandard.at/
+    - pinned: false
+      title: Erster Erfolg Wolfs gegen Strache in Causa Facebook-Posting - ORF - derStandard.at
+        › Etat
+      url: https://derstandard.at/2000074854326/Erster-Erfolg-Wolfs-gegen-Strache-in-Causa-Facebook-Posting
+    - pinned: false
+      title: '"Vorstadtweiber": Regisseurin hört auf, ORF lässt Fortsetzung offen
+        - ORF-Programm - derStandard.at › Etat'
+      url: https://derstandard.at/2000074738975/Vorstadtweiber-Regisseurin-hoert-auf-ORF-laesst-Fortsetzung-offen?ref=rec
+    - pinned: false
+      title: Zwei neue Folgen des TV-Krimis "Die Toten von Salzburg" - ORF-Programm
+        - derStandard.at › Etat
+      url: https://derstandard.at/2000073876967/Zwei-neue-Folgen-des-TV-Krimis-Die-Toten-von-Salzburg?ref=rec
+    - pinned: false
+      title: Wenn das Huhn zur Maschine wird - ORF-Programm - derStandard.at › Etat
+      url: https://derstandard.at/2000074271029/Wenn-das-Huhn-zur-Maschine-wird?ref=rec
+    - pinned: false
+      title: Zwei neue Folgen des TV-Krimis "Die Toten von Salzburg" - ORF-Programm
+        - derStandard.at › Etat
+      url: https://derstandard.at/2000073876967/Zwei-neue-Folgen-des-TV-Krimis-Die-Toten-von-Salzburg?ref=rec
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 40
+      title: derStandard.at - Nachrichten in Echtzeit
+      url: https://derstandard.at/
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: YouTube
+      url: https://www.youtube.com/
+    - pinned: false
+      title: FENTANYL - The Drug Deadlier than Heroin - full documentary - YouTube
+      url: https://www.youtube.com/watch?v=1eC3H3ImmzY
+    - pinned: false
+      title: SHELTER (Full Length Documentary) - YouTube
+      url: https://www.youtube.com/watch?v=KUfNbNBFwRI
+    - pinned: false
+      title: YouTube
+      url: https://www.youtube.com/
+    - pinned: false
+      title: Keyboard Controversy - Why Can't We Just Get Along? - YouTube
+      url: https://www.youtube.com/watch?v=knwDBmZdIRo
+    - pinned: false
+      title: YouTube
+      url: https://www.youtube.com/
+    - pinned: false
+      title: Geschäftsmodell kriminell - Der Bitcoin-Fälscher | HD DOKU - YouTube
+      url: https://www.youtube.com/watch?v=SiXVV7G9ZV0
+    - pinned: false
+      title: YouTube
+      url: https://www.youtube.com/
+    - pinned: false
+      title: Der König des Rachepornos - Kriminelle Karrieren [Doku] - YouTube
+      url: https://www.youtube.com/watch?v=UJRV-tpri30
+    - pinned: false
+      title: YouTube
+      url: https://www.youtube.com/
+    - pinned: false
+      title: Honeckers Enkel Roberto - Eine Rückkehr nach Deutschland - YouTube
+      url: https://www.youtube.com/watch?v=47T9SQKYZWU
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1230
+      title: YouTube
+      url: https://www.youtube.com/
+      zoom: 1.0
+  - history:
+    - original-url: https://duckduckgo.com/?q=erich%20honecker
+      pinned: false
+      title: erich honecker at DuckDuckGo
+      url: https://duckduckgo.com/?q=erich+honecker&ia=web
+    - original-url: https://duckduckgo.com/?q=erich+honecker&ia=web
+      pinned: false
+      title: Erich Honecker - Wikipedia
+      url: https://en.wikipedia.org/wiki/Erich_Honecker
+    - pinned: false
+      title: Socialist Unity Party of Germany - Wikipedia
+      url: https://en.wikipedia.org/wiki/Socialist_Unity_Party_of_Germany
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Sozialistische Einheitspartei Deutschlands – Wikipedia
+      url: https://de.wikipedia.org/wiki/Sozialistische_Einheitspartei_Deutschlands
+      zoom: 1.0
+  - history:
+    - original-url: http://aliexpress.com/
+      pinned: false
+      title: AliExpress.com - Online Shopping for Popular Electronics, Fashion, Home
+        & Garden, Toys & Sports, Automobiles and More.
+      url: https://www.aliexpress.com/
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 142
+      title: Buy watermelon shirt and get free shipping on AliExpress.com
+      url: https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20180223114809&SearchText=watermelon+shirt
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 2017 fashion women summer t shirt Female harajuku watermelon banana Ice
+        cream Cartoon printed t shirts girls kawaii basic tops-in T-Shirts from Women's
+        Clothing & Accessories on Aliexpress.com | Alibaba Group
+      url: https://www.aliexpress.com/item/2016-fashion-women-summer-t-shirt-Female-harajuku-watermelon-banana-Ice-cream-Cartoon-printed-t-shirts/32637745123.html?spm=2114.search0104.3.46.56be5a0foQAuGU&ws_ab_test=searchweb0_0,searchweb201602_5_10152_10151_10065_10344_10068_10342_10547_10343_10340_10548_10341_10084_10083_10618_10630_10304_10307_10302_10313_10059_10534_100031_10629_10103_10627_10626_10624_10623_10622_10621_10620_10142,searchweb201603_25,ppcSwitch_4&algo_expid=c2f0e6c9-2385-4b1c-9bcc-93a7d9647d43-6&algo_pvid=c2f0e6c9-2385-4b1c-9bcc-93a7d9647d43&transAbTest=ae803_5&priceBeautifyAB=0
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: YouTube
+      url: https://www.youtube.com/
+    - pinned: false
+      title: qutebrowser - YouTube
+      url: https://www.youtube.com/results?search_query=qutebrowser
+    - pinned: false
+      title: How to import bookmarks to qutebrowser - YouTube
+      url: https://www.youtube.com/watch?v=cM_w59B3j5s
+    - pinned: false
+      title: The Easiest Way to Make Presentations! (Pandoc + Markdown) - YouTube
+      url: https://www.youtube.com/watch?v=dum7q6UXiCE
+    - pinned: false
+      title: Luke Smith - YouTube
+      url: https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA
+    - pinned: false
+      title: Luke Smith - YouTube
+      url: https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA/videos?disable_polymer=1
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Convince me to use EMACS! - YouTube
+      url: https://www.youtube.com/watch?v=PszamMaJZIc
+      zoom: 1.0
+  - history:
+    - pinned: false
+      title: 'To Luke Smith: Why bother with Emacs? Part 1 - YouTube'
+      url: https://www.youtube.com/watch?v=EsAkPl3On3E
+    - pinned: false
+      title: 'To Luke Smith: Why bother with Emacs? Part 2 - YouTube'
+      url: https://www.youtube.com/watch?v=fgkHGPDeNfA
+    - pinned: false
+      title: YouTube
+      url: https://www.youtube.com/
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Geschäftsmodell kriminell - Ein bayrischer Hochstapler | HD DOKU - YouTube
+      url: https://www.youtube.com/watch?v=lFW1hFp-CNU
+      zoom: 1.0
+  - history:
+    - active: true
+      original-url: https://duckduckgo.com/?q=yaml%20golang%20converter
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: yaml golang converter at DuckDuckGo
+      url: https://duckduckgo.com/?q=yaml+golang+converter&ia=qa
+      zoom: 1.0
+  - active: true
+    history:
+    - original-url: https://www.google.com/search?hl=en&q=yaml%20golang%20struct%20generator
+      pinned: false
+      title: yaml golang struct generator - Google Search
+      url: https://www.google.at/search?hl=en&q=yaml+golang+struct+generator&gws_rd=cr&dcr=0&ei=CneQWuuDI4b3kwXf_KCQCw
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2533
+      title: 'GitHub - go-yaml/yaml: YAML support for the Go language.'
+      url: https://github.com/go-yaml/yaml
+      zoom: 1.0
+- active: true
+  geometry: !!binary |
+    AdnQywACAAAAAAAAAAAAAAAAB38AAAQiAAAAAAAAAAAAAAd/AAAEIgAAAAAAAAAAB4A=
+  tabs:
+  - history:
+    - pinned: false
+      title: DuckDuckGo Search Engine
+      url: https://start.duckduckgo.com/
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: news.ORF.at
+      url: http://orf.at/
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: derStandard.at - Nachrichten in Echtzeit
+      url: https://derstandard.at/
+      zoom: 1.0
+  - active: true
+    history:
+    - active: true
+      original-url: http://diepresse.com/
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: DiePresse.com « Die Online-Ausgabe der österreichischen Tageszeitung
+        Die Presse.
+      url: https://diepresse.com/home/index.do
+      zoom: 1.0
